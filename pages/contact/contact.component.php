@@ -59,7 +59,7 @@
                                         <label for='textarea'>Enter details</label>
                                     </div>
                                 </div>
-                                <a class='btn' type='submit' name='submit'>Submit</a>
+                                <button class='btn' type='submit' name='submit'>Submit</button>
                               </form>
                         </div>
         </div>
