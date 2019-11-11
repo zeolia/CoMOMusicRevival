@@ -8,7 +8,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script> 
     <link rel='stylesheet' type='text/css' href='../../assets/styles/styles.css'>
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <title>Contact</title>
+    <title>Gallery</title>
 </head>
 <body>
     <nav>
@@ -23,5 +23,6 @@
             <li><a href='../contact/contact.index.html'>Contact</a></li>
         </ul>
     </nav>
+    
 </body>
 </html>
