@@ -55,8 +55,7 @@
                                 </div>
                                 <div class='row'>
                                     <div class='input-field col s12'>
-                                        <textarea id='textarea' cols='40' rows='5'></textarea>
-                                        <label for='textarea'>Enter details</label>
+                                        <textarea id='textarea' cols='40' rows='5' placeholder='details'></textarea>
                                     </div>
                                 </div>
                                 <button class='btn' type='submit' name='submit'>Submit</button>
