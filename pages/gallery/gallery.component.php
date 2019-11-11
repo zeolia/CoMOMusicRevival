@@ -16,11 +16,11 @@
                 <img src='../../assets/images/logo.png'>
         </div>
         <ul>
-            <li><a href='../../index.html' class='active'>Home</a></li>
-            <li><a href='../about/about.index.html'>About</a></li>
-            <li><a href='../gallery/gallery.index.html'>Gallery</a></li>
-            <li><a href='../events/events.index.html'>Events</a></li>
-            <li><a href='../contact/contact.index.html'>Contact</a></li>
+            <li><a href='../../index.php' class='active'>Home</a></li>
+            <li><a href='../about/about.component.php'>About</a></li>
+            <li><a href='../gallery/gallery.component.php'>Gallery</a></li>
+            <li><a href='../events/events.component.php'>Events</a></li>
+            <li><a href='../contact/contact.component.php'>Contact</a></li>
         </ul>
     </nav>
     
