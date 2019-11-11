@@ -55,7 +55,7 @@
                                 </div>
                                 <div class='row'>
                                     <div class='input-field col s12'>
-                                        <textarea id='textarea' cols='40' rows='5' class='materialize-textarea'></textarea>
+                                        <textarea id='textarea' cols='40' rows='5'></textarea>
                                         <label for='textarea'>Enter details</label>
                                     </div>
                                 </div>
