@@ -25,6 +25,7 @@
         </ul>
     </nav>
 
+    <?php echo 'test' ?>
     
     <div class='parallax1'>
         <div class='add-height valign-wrapper'>
