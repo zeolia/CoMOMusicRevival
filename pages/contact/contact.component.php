@@ -29,10 +29,8 @@
     <div class='container'>
         <div class='row'>
             <div class='col s12'>
-                
-
                         <div class='row'>
-                            <form class="col s12" action='../../assets/scripts/contact.php' method='post'>
+                            <form class="col s12" action='contact.php' method='post'>
                                 <div class="row">
                                   <div class="input-field col s6">
                                     <input id="first_name" type="text" class="validate">

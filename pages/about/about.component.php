@@ -24,6 +24,5 @@
         </ul>
     </nav>
 
-    <?php echo 'test' ?>
 </body>
 </html>
