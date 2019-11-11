@@ -16,7 +16,7 @@
 
         mail($mailTo, $bandName, $text, $headers);
 
-        header("Location: contact.component.php?messageSuccess");
+        header("Location: ../../pages/contact.component.php?messageSuccess");
     }
 
 
