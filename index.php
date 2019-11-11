@@ -24,8 +24,6 @@
             <li><a href='pages/contact/contact.component.php'>Contact</a></li>
         </ul>
     </nav>
-
-    <?php echo 'test' ?>
     
     <div class='parallax1'>
         <div class='add-height valign-wrapper'>

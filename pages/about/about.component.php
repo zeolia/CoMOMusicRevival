@@ -23,5 +23,7 @@
             <li><a href='../contact/contact.component.php'>Contact</a></li>
         </ul>
     </nav>
+
+    <?php echo 'test' ?>
 </body>
 </html>
