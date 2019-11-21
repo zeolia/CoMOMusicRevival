@@ -13,6 +13,22 @@
         .rotate{
             transform: rotate(90deg);
         }
+
+        div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
     </style>
 </head>
 <body>
@@ -32,9 +48,17 @@
 
     <div class='container'>
         <div class='row'>
+
+            <div class='gallery'>
                 <img class="materialboxed rotate" width='300' height='auto' src="../../assets/images/gallery/IMG_7237.JPG">
-                <img class="materialboxed rotate" width='300' height='auto' src="../../assets/images/gallery/IMG_6711.JPG">
-                <img class="materialboxed rotate" width='300' height='auto' src="../../assets/images/gallery/IMG_6711.JPG">
+            </div>
+            <div class='gallery'>
+                <img class="materialboxed rotate" width='300' height='auto' src="../../assets/images/gallery/IMG_7237.JPG">
+            </div>
+            <div class='gallery'>
+                <img class="materialboxed rotate" width='300' height='auto' src="../../assets/images/gallery/IMG_7237.JPG">
+            </div>
+                
 
             
         </div>
