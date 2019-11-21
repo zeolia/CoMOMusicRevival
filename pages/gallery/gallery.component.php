@@ -27,7 +27,7 @@
 
     <div class='container'>
         <div class='row'>
-                <img class="materialboxed" width='300' height='auto' src="../../assets/images/gallery/IMG_6711.JPG">
+                <img class="materialboxed" width='300' height='auto' src="../../assets/images/gallery/IMG_7237.JPG">
                 <!-- <img class="materialboxed" class='responsive-img' src="../../assets/images/gallery/IMG_6711.JPG">
                 <img class="materialboxed" class='responsive-img' src="../../assets/images/gallery/IMG_6711.JPG"> -->
 
