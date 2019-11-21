@@ -10,7 +10,7 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <title>Gallery</title>
     <style>
-        #rotate {
+        .rotate{
             transform: rotate(90deg);
         }
     </style>
@@ -32,9 +32,9 @@
 
     <div class='container'>
         <div class='row'>
-                <img class="materialboxed" id='rotate' width='300' height='auto' src="../../assets/images/gallery/IMG_7237.JPG">
-                <!-- <img class="materialboxed" class='responsive-img' src="../../assets/images/gallery/IMG_6711.JPG">
-                <img class="materialboxed" class='responsive-img' src="../../assets/images/gallery/IMG_6711.JPG"> -->
+                <img class="materialboxed rotate" width='300' height='auto' src="../../assets/images/gallery/IMG_7237.JPG">
+                <img class="materialboxed rotate" class='responsive-img' src="../../assets/images/gallery/IMG_6711.JPG">
+                <img class="materialboxed rotate" class='responsive-img' src="../../assets/images/gallery/IMG_6711.JPG">
 
             
         </div>
