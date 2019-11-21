@@ -15,8 +15,6 @@
         }
 
         div.gallery {
-            position: absolute;
-            top: 25%;
             margin: 5px;
             border: 1px solid #ccc;
             float: left;
