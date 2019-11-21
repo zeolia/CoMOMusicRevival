@@ -19,10 +19,31 @@
             <li><a href='../../index.php' class='active'>Home</a></li>
             <li><a href='../about/about.component.php'>About</a></li>
             <li><a href='../gallery/gallery.component.php'>Gallery</a></li>
+            <li><a href='../artists/artist.component.php'>Artists</a></li>
             <li><a href='../events/events.component.php'>Events</a></li>
             <li><a href='../contact/contact.component.php'>Contact</a></li>
         </ul>
     </nav>
-    
+
+    <div class='container'>
+        <div class='row'>
+            <div class='col s12 m4 l4'>
+                <img class="materialboxed" width="650" src="../../assets/images/gallery/IMG_6711.JPG">
+            </div>
+            <div class='col s12 m4 l4'>
+                <img class="materialboxed" width="650" src="../../assets/images/gallery/IMG_6711.JPG">
+            </div>
+            <div class='col s12 m4 l4'>
+                <img class="materialboxed" width="650" src="../../assets/images/gallery/IMG_6711.JPG">
+            </div>
+        </div>
+    </div>
+
+
+<script>
+    $(document).ready(function(){
+    $('.materialboxed').materialbox();
+  });
+</script>
 </body>
 </html>

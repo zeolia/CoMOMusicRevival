@@ -20,6 +20,7 @@
             <li><a href='index.php' class='active'>Home</a></li>
             <li><a href='pages/about/about.component.php'>About</a></li>
             <li><a href='pages/gallery/gallery.component.php'>Gallery</a></li>
+            <li><a href='pages/artists/artist.component.php'>Artists</a></li>
             <li><a href='pages/events/events.component.php'>Events</a></li>
             <li><a href='pages/contact/contact.component.php'>Contact</a></li>
         </ul>
