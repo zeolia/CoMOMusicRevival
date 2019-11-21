@@ -34,7 +34,7 @@
         <div class='row'>
                 <img class="materialboxed rotate" width='300' height='auto' src="../../assets/images/gallery/IMG_7237.JPG">
                 <img class="materialboxed rotate" width='300' height='auto' src="../../assets/images/gallery/IMG_6711.JPG">
-                <img class="materialboxed responsive-img rotate" src="../../assets/images/gallery/IMG_6711.JPG">
+                <img class="materialboxed rotate" width='300' height='auto' src="../../assets/images/gallery/IMG_6711.JPG">
 
             
         </div>
