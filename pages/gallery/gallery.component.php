@@ -32,9 +32,7 @@
         height: auto;
         }
 
-        .test {
-            position: relative;
-        }
+    
     </style>
 </head>
 <body>
@@ -55,7 +53,7 @@
     <div class='container'>
         <div class='row'>
 
-            <div class='test'>
+                <br><br><br><br>
                 <div class='gallery'>
                     <img class="materialboxed rotate" width='300' height='auto' src="../../assets/images/gallery/IMG_7237.JPG">
                 </div>
@@ -65,7 +63,6 @@
                 <div class='gallery'>
                     <img class="materialboxed rotate" width='300' height='auto' src="../../assets/images/gallery/IMG_7237.JPG">
                 </div>
-            </div>
 
             
         </div>
