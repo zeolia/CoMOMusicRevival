@@ -28,13 +28,13 @@
     <div class='container'>
         <div class='row'>
             <div class='col s12 m4 l4'>
-                <img class="materialboxed" width="650" src="../../assets/images/gallery/IMG_6711.JPG">
+                <img class="materialboxed" class='responsive-img' src="../../assets/images/gallery/IMG_6711.JPG">
             </div>
             <div class='col s12 m4 l4'>
-                <img class="materialboxed" width="650" src="../../assets/images/gallery/IMG_6711.JPG">
+                <img class="materialboxed" class='responsive-img' src="../../assets/images/gallery/IMG_6711.JPG">
             </div>
             <div class='col s12 m4 l4'>
-                <img class="materialboxed" width="650" src="../../assets/images/gallery/IMG_6711.JPG">
+                <img class="materialboxed" class='responsive-img' src="../../assets/images/gallery/IMG_6711.JPG">
             </div>
         </div>
     </div>
