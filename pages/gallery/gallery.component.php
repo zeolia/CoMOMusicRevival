@@ -15,6 +15,7 @@
         }
 
         div.gallery {
+            position: absolute;
             top: 25%;
             margin: 5px;
             border: 1px solid #ccc;
@@ -29,6 +30,10 @@
         div.gallery img {
         width: 100%;
         height: auto;
+        }
+
+        .test {
+            position: relative;
         }
     </style>
 </head>
@@ -50,16 +55,17 @@
     <div class='container'>
         <div class='row'>
 
-            <div class='gallery'>
-                <img class="materialboxed rotate" width='300' height='auto' src="../../assets/images/gallery/IMG_7237.JPG">
+            <div class='test'>
+                <div class='gallery'>
+                    <img class="materialboxed rotate" width='300' height='auto' src="../../assets/images/gallery/IMG_7237.JPG">
+                </div>
+                <div class='gallery'>
+                    <img class="materialboxed rotate" width='300' height='auto' src="../../assets/images/gallery/IMG_7237.JPG">
+                </div>
+                <div class='gallery'>
+                    <img class="materialboxed rotate" width='300' height='auto' src="../../assets/images/gallery/IMG_7237.JPG">
+                </div>
             </div>
-            <div class='gallery'>
-                <img class="materialboxed rotate" width='300' height='auto' src="../../assets/images/gallery/IMG_7237.JPG">
-            </div>
-            <div class='gallery'>
-                <img class="materialboxed rotate" width='300' height='auto' src="../../assets/images/gallery/IMG_7237.JPG">
-            </div>
-                
 
             
         </div>
