@@ -8,7 +8,7 @@
         $email = $_POST['email'];
         $details = $_POST['textarea'];
 
-        $mailTo = 'comomusic.project@gmail.com';
+        $mailTo = 'comomusic.contact@gmail.com';
         $headers = "From: ".$email;
 
         $text = 'You have received an email from '.$firstName.'.\n\n'.$details;
