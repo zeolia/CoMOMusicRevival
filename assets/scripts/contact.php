@@ -9,7 +9,7 @@
 
 
 
-        $mailTo = 'griffinstiens@gmail.com';
+        $mailTo = 'comomusic.project@gmail.com';
         $headers = "From: ".$email;
 
         $text = 'You have received an email from '.$firstName.'.\n\n'.$details;
@@ -18,7 +18,6 @@
 
         header("Location: ../../pages/contact.component.php?messageSuccess");
     }
-
 
 
 

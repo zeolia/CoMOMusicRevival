@@ -25,6 +25,16 @@
         </ul>
     </nav>
 
+    <div class='container'>
+        <div class="row">
+            <div class="col s12">
+                <div class="card large">
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+
    
 </body>
 </html>
